@@ -1,0 +1,14 @@
+Output will be : c) 0.04,0.08,0.08
+
+Static Variable.
+
+we have only one copy of static variable in the program that acts globally 
+means only one instance of a given variable exists for a class and all 
+objects share one copy of the static variable in memory
+
+that is why in this program we have changed the currInterestRate to 0.08 so
+ further all the object will use this value of currInterestRate 
+
+Static Method.
+
+We can call static method(using class name with dot operator) without creating the object of class 

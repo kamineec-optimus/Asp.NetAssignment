@@ -1,0 +1,6 @@
+c:\users\optimus11\documents\visual studio 2012\Projects\Assignment8\Assignment8\bin\Debug\Assignment8.exe.config
+C:\Users\optimus11\documents\visual studio 2012\Projects\Assignment8\Assignment8\obj\Debug\Assignment8.csprojResolveAssemblyReference.cache
+C:\Users\optimus11\documents\visual studio 2012\Projects\Assignment8\Assignment8\bin\Debug\Assignment8.exe
+C:\Users\optimus11\documents\visual studio 2012\Projects\Assignment8\Assignment8\bin\Debug\Assignment8.pdb
+C:\Users\optimus11\documents\visual studio 2012\Projects\Assignment8\Assignment8\obj\Debug\Assignment8.exe
+C:\Users\optimus11\documents\visual studio 2012\Projects\Assignment8\Assignment8\obj\Debug\Assignment8.pdb

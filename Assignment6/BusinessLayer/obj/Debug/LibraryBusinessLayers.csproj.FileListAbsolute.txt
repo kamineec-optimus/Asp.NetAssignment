@@ -1,0 +1,7 @@
+C:\Users\optimus11\Desktop\New folder\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\optimus11\Desktop\New folder\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\optimus11\Desktop\New folder\BusinessLayer\bin\Debug\DataBaseLayer.dll
+C:\Users\optimus11\Desktop\New folder\BusinessLayer\bin\Debug\DataBaseLayer.pdb
+C:\Users\optimus11\Desktop\New folder\BusinessLayer\obj\Debug\LibraryBusinessLayers.csprojResolveAssemblyReference.cache
+C:\Users\optimus11\Desktop\New folder\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\optimus11\Desktop\New folder\BusinessLayer\obj\Debug\BusinessLayer.pdb
