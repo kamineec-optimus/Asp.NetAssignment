@@ -1,0 +1,10 @@
+c:\users\optimus11\documents\visual studio 2012\Projects\Ques1\Ques1\bin\Ques1.dll
+c:\users\optimus11\documents\visual studio 2012\Projects\Ques1\Ques1\bin\Ques1.pdb
+c:\users\optimus11\documents\visual studio 2012\Projects\Ques1\Ques1\obj\Debug\Ques1.csprojResolveAssemblyReference.cache
+c:\users\optimus11\documents\visual studio 2012\Projects\Ques1\Ques1\obj\Debug\Ques1.dll
+c:\users\optimus11\documents\visual studio 2012\Projects\Ques1\Ques1\obj\Debug\Ques1.pdb
+C:\Users\optimus11\Documents\Visual Studio 2012\Projects\Assignment\Ques1\bin\Ques1.dll
+C:\Users\optimus11\Documents\Visual Studio 2012\Projects\Assignment\Ques1\bin\Ques1.pdb
+C:\Users\optimus11\Documents\Visual Studio 2012\Projects\Assignment\Ques1\obj\Debug\Ques1.csprojResolveAssemblyReference.cache
+C:\Users\optimus11\Documents\Visual Studio 2012\Projects\Assignment\Ques1\obj\Debug\Ques1.dll
+C:\Users\optimus11\Documents\Visual Studio 2012\Projects\Assignment\Ques1\obj\Debug\Ques1.pdb

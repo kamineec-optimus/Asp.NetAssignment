@@ -1,0 +1,21 @@
+C:\Users\optimus11\Documents\Visual Studio 2012\Projects\Assignment\LibraryProject\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\optimus11\Documents\Visual Studio 2012\Projects\Assignment\LibraryProject\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\optimus11\Documents\Visual Studio 2012\Projects\Assignment\LibraryProject\BusinessLayer\bin\Debug\DataBaseLayer.dll
+C:\Users\optimus11\Documents\Visual Studio 2012\Projects\Assignment\LibraryProject\BusinessLayer\bin\Debug\DataBaseLayer.pdb
+C:\Users\optimus11\Documents\Visual Studio 2012\Projects\Assignment\LibraryProject\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\optimus11\Documents\Visual Studio 2012\Projects\Assignment\LibraryProject\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\optimus11\Documents\Visual Studio 2012\Projects\Assignment\LibraryProject\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Sheenu\Desktop\LibraryProject\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Sheenu\Desktop\LibraryProject\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Sheenu\Desktop\LibraryProject\BusinessLayer\bin\Debug\DataBaseLayer.dll
+C:\Users\Sheenu\Desktop\LibraryProject\BusinessLayer\bin\Debug\DataBaseLayer.pdb
+C:\Users\Sheenu\Desktop\LibraryProject\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\Sheenu\Desktop\LibraryProject\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Sheenu\Desktop\LibraryProject\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\optimus11\Desktop\New folder\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\optimus11\Desktop\New folder\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\optimus11\Desktop\New folder\BusinessLayer\bin\Debug\DataBaseLayer.dll
+C:\Users\optimus11\Desktop\New folder\BusinessLayer\bin\Debug\DataBaseLayer.pdb
+C:\Users\optimus11\Desktop\New folder\BusinessLayer\obj\Debug\BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\optimus11\Desktop\New folder\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\optimus11\Desktop\New folder\BusinessLayer\obj\Debug\BusinessLayer.pdb

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Web
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryProject", "LibraryProject\LibraryProject.csproj", "{E5F3A71E-496D-47EB-A5D6-456CB5A07251}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataBaseLayer", "DataBaseLayer\DataBaseLayer.csproj", "{65C59D14-9B99-41D0-8FA7-749731E9C88C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryBusinessLayers", "BusinessLayer\LibraryBusinessLayers.csproj", "{B825E5E9-B80F-4292-B27D-694C7FC45E8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5F3A71E-496D-47EB-A5D6-456CB5A07251}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5F3A71E-496D-47EB-A5D6-456CB5A07251}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5F3A71E-496D-47EB-A5D6-456CB5A07251}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5F3A71E-496D-47EB-A5D6-456CB5A07251}.Release|Any CPU.Build.0 = Release|Any CPU
+		{65C59D14-9B99-41D0-8FA7-749731E9C88C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{65C59D14-9B99-41D0-8FA7-749731E9C88C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{65C59D14-9B99-41D0-8FA7-749731E9C88C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{65C59D14-9B99-41D0-8FA7-749731E9C88C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B825E5E9-B80F-4292-B27D-694C7FC45E8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B825E5E9-B80F-4292-B27D-694C7FC45E8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B825E5E9-B80F-4292-B27D-694C7FC45E8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B825E5E9-B80F-4292-B27D-694C7FC45E8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
