@@ -1,0 +1,11 @@
+Answer1. This code will not run because _age variable will be 
+inaccessible in CollegeStudent class due to its protection level.
+Access specifier of _age is protected so it will only be accessible
+within its child class.
+
+Answer2. This code also will not run because _age variable is declared 
+as protected internal means it can be accessed from any code within the same
+assembly and from the other assembly class as-well but that class must drived
+from the class where the variable has actually declared.
+So as class univPeople does not drived from  Student class 
+so _age variable will not be eccessed here.

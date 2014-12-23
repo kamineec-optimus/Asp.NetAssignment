@@ -1,0 +1,39 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="masterPage.master.cs" Inherits="Assignment15.masterPage" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title></title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>        
+       
+        <header>
+            <asp:Image ID="Image1" ImageUrl="~/optimusinfologo.png" runat="server" />
+        </header>
+       
+         <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+             <div>
+                 <asp:Label ID="lblmsg" runat="server" Text =" rthtudtyj"></asp:Label>
+                 <asp:Label ID="lblWelcome" runat="server" Text=""></asp:Label> 
+                 <asp:LinkButton ID ="lbtnLogout" runat="server" Text="Logout" ></asp:LinkButton>
+
+             </div>
+
+         </asp:ContentPlaceHolder>
+         <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+
+    </asp:ContentPlaceHolder>            
+
+    </div>
+        <br />
+        <asp:Literal ID="ltrlSiteMap" runat="server" Text="Site Map :"></asp:Literal>
+        <asp:SiteMapDataSource runat="server" ID="mySiteMapDataSource" ShowStartingNode="false" />
+        <asp:Menu ID="Menu1" runat="server" DataSourceID="mySiteMapDataSource"></asp:Menu>
+    </form>
+</body>
+</html>
