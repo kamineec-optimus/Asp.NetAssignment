@@ -1,23 +1,22 @@
-﻿
-using System;
+﻿using System;
 namespace SingletonDesignPattern
 {
     /// <summary>
-    /// user class to create instance of ApplicationState class
+    /// User class to create instance of ApplicationState class
     /// </summary>
     public class MainClass
     {
         /// <summary>
-        /// private strings used to print state of singleton object
+        /// Private strings used to print state of singleton object
         /// </summary>
         private const string userID = "UserId: {0}";
         private const string roleID = "RoleId: {0}";
 
         static void Main(string[] args)
         {
-            //object to call GetInstancesState method
+            // Object to call GetInstancesState method
             MainClass user = new MainClass();
-            //print state of second instance
+            // Print state of second instance
             user.GetInstancesState();
         }
 
@@ -26,12 +25,12 @@ namespace SingletonDesignPattern
         /// </summary>
         public void GetInstancesState()
         {
-            //first instance
+            // First instance of object of ApplicationState class
             ApplicationState objApplicationState1 = ApplicationState.GetState();            
             objApplicationState1.UserId = 1;
             objApplicationState1.RoleId = 2;
-            
-            //Second instance
+
+            // Second instance of object of ApplicationState class
             ApplicationState objApplicationState2 = ApplicationState.GetState();
             Console.WriteLine(userID, objApplicationState2.UserId);
             Console.WriteLine(roleID, objApplicationState2.RoleId);
