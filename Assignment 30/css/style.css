@@ -1,0 +1,13 @@
+body { font-family: Gotham, "Helvetica Neue", Helvetica, Arial, sans-serif; background: #eee; color:#333; }
+.quiz-container { width: 418px; margin: 15px auto; text-align: left; background: #fff; box-shadow: 0 3px 10px #cccccc; -moz-box-shadow: 0 3px 10px #cccccc; -ms-box-shadow: 0 3px 10px #cccccc; -o-box-shadow: 0 3px 10px #cccccc; -webkit-box-shadow: 0 3px 10px #cccccc; padding: 30px; border-radius: 5px; }
+.question { font-weight: bold; font-size: 26px; margin-bottom: 15px; display: block; }
+.quiz-container i { padding-bottom: 15px; display: block; text-indent:5px; }
+.quiz-container div { margin-bottom: 15px; border: 1px solid #cccccc; border-radius: 5px; }
+.quiz-container label { display: inline-block; cursor: pointer; line-height: 40px; vertical-align: middle; }
+.quiz-container input { display: inline-block; margin: 0 5px 0 15px; cursor: pointer; height: 15px; width: 15px; vertical-align: middle; }
+.nextbtn { color: #ffffff; background-color: #0574D0; padding: 8px 15px; float: right; border-radius: 4px; text-decoration: none; display: block; text-align: center; }
+.nextbtn:hover { background-color: #0364B4; text-decoration: none; }
+.mcq:after { content: ""; display: table; clear: both; }
+.mcq { display: none; }
+.mcq.show { display: block; }
+.selected { background:#028630; color:#fff;}

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Student xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <RollNo>3</RollNo>
+  <Name>Sheenu</Name>
+  <TotalMarks>98</TotalMarks>
+</Student>

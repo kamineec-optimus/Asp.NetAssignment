@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="EntityFrameworkModelStoreContainer" CdmEntityContainer="EntityFrameworkEntities">
+    <EntitySetMapping Name="Documents">
+      <EntityTypeMapping TypeName="EntityFrameworkModel.Document">
+        <MappingFragment StoreEntitySet="Document">
+          <ScalarProperty Name="DocumentId" ColumnName="DocumentId" />
+          <ScalarProperty Name="Data" ColumnName="Data" />
+        </MappingFragment>
+      </EntityTypeMapping>
+      <EntityTypeMapping TypeName="EntityFrameworkModel.Document">
+        <ModificationFunctionMapping>
+          <InsertFunction FunctionName="EntityFrameworkModel.Store.UploadDocument">
+            <ScalarProperty Name="Data" ParameterName="Data" />
+          </InsertFunction>
+        </ModificationFunctionMapping>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UserDetails">
+      <EntityTypeMapping TypeName="EntityFrameworkModel.UserDetail">
+        <MappingFragment StoreEntitySet="UserDetail">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="MobileNo" ColumnName="MobileNo" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="RoleId" ColumnName="RoleId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+      <EntityTypeMapping TypeName="EntityFrameworkModel.UserDetail">
+        <ModificationFunctionMapping>
+          <InsertFunction FunctionName="EntityFrameworkModel.Store.InsertUser">
+            <ScalarProperty Name="RoleId" ParameterName="RoleId" />
+            <ScalarProperty Name="Password" ParameterName="Password" />
+            <ScalarProperty Name="UserName" ParameterName="UserName" />
+            <ScalarProperty Name="MobileNo" ParameterName="MobileNo" />
+            <ScalarProperty Name="Name" ParameterName="Name" />
+          </InsertFunction>
+          <UpdateFunction FunctionName="EntityFrameworkModel.Store.UpdateUser">
+            <ScalarProperty Name="RoleId" ParameterName="RoleId" Version="Current" />
+            <ScalarProperty Name="Password" ParameterName="Password" Version="Current" />
+            <ScalarProperty Name="UserName" ParameterName="UserName" Version="Current" />
+            <ScalarProperty Name="MobileNo" ParameterName="MobileNo" Version="Current" />
+            <ScalarProperty Name="Name" ParameterName="Name" Version="Current" />
+            <ScalarProperty Name="Id" ParameterName="Id" Version="Current" />
+          </UpdateFunction>
+          <DeleteFunction FunctionName="EntityFrameworkModel.Store.DeleteUser">
+            <ScalarProperty Name="Id" ParameterName="Id" />
+          </DeleteFunction>
+        </ModificationFunctionMapping>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="UserRoles">
+      <EntityTypeMapping TypeName="EntityFrameworkModel.UserRole">
+        <MappingFragment StoreEntitySet="UserRole">
+          <ScalarProperty Name="RoleId" ColumnName="RoleId" />
+          <ScalarProperty Name="Role" ColumnName="Role" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="DeleteUser" FunctionName="EntityFrameworkModel.Store.DeleteUser" />
+    <FunctionImportMapping FunctionImportName="GetUser" FunctionName="EntityFrameworkModel.Store.GetUser">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="EntityFrameworkModel.GetUser_Result">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="MobileNo" ColumnName="MobileNo" />
+          <ScalarProperty Name="UserName" ColumnName="UserName" />
+          <ScalarProperty Name="RoleId" ColumnName="RoleId" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+    <FunctionImportMapping FunctionImportName="InsertUser" FunctionName="EntityFrameworkModel.Store.InsertUser" />
+    <FunctionImportMapping FunctionImportName="UpdateUser" FunctionName="EntityFrameworkModel.Store.UpdateUser" />
+    <FunctionImportMapping FunctionImportName="UploadDocument" FunctionName="EntityFrameworkModel.Store.UploadDocument" />
+  </EntityContainerMapping>
+</Mapping>

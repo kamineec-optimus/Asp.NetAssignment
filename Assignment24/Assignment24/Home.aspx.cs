@@ -16,8 +16,8 @@ namespace Assignment24
         /// </summary>
         string ApplicationURL = "http://{0}:{1}";
         string NavigateURL = "http://{0}:{1}/Test.Xml";
-        string FilePath = string.Format("http://{0}:{1}/Test.Xml", Assignment24.Properties.Settings.Default.HostName, Assignment24.Properties.Settings.Default.PortNo);
-
+     //   string FilePath = string.Format("http://{0}:{1}/Test.Xml", Assignment24.Properties.Settings.Default.HostName, Assignment24.Properties.Settings.Default.PortNo);
+        string FilePath = string.Format("{0}/Test.xml", HttpContext.Current.Request.PhysicalApplicationPath);
         protected void Page_Load(object sender, EventArgs e)
         {
             if (!IsPostBack)

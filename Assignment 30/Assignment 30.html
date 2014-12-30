@@ -1,0 +1,113 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Assignment 30</title>
+<link href="css/style.css" rel="stylesheet">
+</head>
+
+<body>
+<div class="quiz-container">
+  <section class="mcq show">
+    <form id="que1" method="post">
+      <b class="question">Que1. HTML Stands for ________. </b> <i>  HTML QUIZ </i>
+      <div>
+        <input id="a1" type="checkbox" class="checkbox">
+        <label for="a1"> Hyper Tech Markup Language </label>
+      </div>
+      <div>
+        <input id="b1" type="checkbox" class="checkbox">
+        <label for="b1">Hyper Text Makeup Language</label>
+      </div>
+      <div>
+        <input id="c1" type="checkbox" class="checkbox">
+        <label for="c1">Hyper Text Markup Language</label>
+      </div>
+      <div>
+        <input id="d1" type="checkbox" class="checkbox">
+        <label for="d1">None of these</label>
+      </div>
+    </form>
+    <a href="javascript:void(0)" class="nextbtn"> Next </a> </section>
+  <section class="mcq">
+    <form id="que2">
+      <b class="question">Que2. Who is making the Web standards. </b> <i>  HTML QUIZ </i>
+      <div>
+        <input id="a2" type="checkbox" class="checkbox">
+        <label for="a2">The World Wide Web Consortium</label>
+      </div>
+      <div>
+        <input id="b2" type="checkbox" class="checkbox">
+        <label for="b2">Google</label>
+      </div>
+      <div>
+        <input id="c2" type="checkbox" class="checkbox">
+        <label for="c2">Mozilla</label>
+      </div>
+      <div>
+        <input id="d2" type="checkbox" class="checkbox">
+        <label for="d2">Microsoft</label>
+      </div>
+    </form>
+    <a href="javascript:void(0)" class="nextbtn"> Next </a> </section>
+  <section class="mcq">
+    <form id="que3">
+      <b class="question">Que3.How can you make a numbered list?</b> <i>  HTML QUIZ </i>
+      <div>
+        <input id="a3" name="radiobtn" type="radio" class="radio">
+        <label for="a3" >&lt;ol&gt;</label>
+      </div>
+      <div>
+        <input id="b3" name="radiobtn" type="radio" class="radio">
+        <label for="b3">&lt;ul&gt;</label>
+      </div>
+      <div>
+        <input id="c3" name="radiobtn" type="radio" class="radio">
+        <label for="c3">&lt;list&gt;</label>
+      </div>
+      <div>
+        <input id="d3" name="radiobtn" type="radio" class="radio">
+        <label for="d3">&lt;dl&gt;</label>
+      </div>
+    </form>
+    <a href="javascript:void(0)" class="nextbtn"> Next </a> </section>
+  <section class="mcq">
+    <form id="que4">
+      <b class="question">Que4.How can you make a bulleted list?</b> <i>  HTML QUIZ </i>
+      <div>
+        <input id="a4" type="checkbox" class="checkbox">
+        <label for="a4">&lt;dl&gt;</label>
+      </div>
+      <div>
+        <input id="b4" type="checkbox" class="checkbox">
+        <label for="b4">&lt;ol&gt;</label>
+      </div>
+      <div>
+        <input id="c4" type="checkbox" class="checkbox">
+        <label for="c4">&lt;list&gt;</label>
+      </div>
+      <div>
+        <input id="d4" type="checkbox" class="checkbox">
+        <label for="d4">&lt;ul&gt;</label>
+      </div>
+    </form>
+  </section>
+</div>
+<script type="text/javascript" src="js/jquery.js"></script> 
+<script>
+ $(document).ready(function(){
+	 $( ".nextbtn" ).click(function() {
+		$(".mcq").removeClass("show"); 
+	  	$(this).parent().next(".mcq").addClass("show"); 
+	});
+	$( ".checkbox" ).click(function() {
+		$(this).parent().toggleClass("selected");  
+	});
+	$( ".radio" ).click(function() {
+		$( ".radio" ).parent().removeClass("selected");
+		$(this).parent().addClass("selected");  
+	});
+});
+</script>
+</body>
+</html>

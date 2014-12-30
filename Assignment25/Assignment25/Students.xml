@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Studentlist>
+  <Student id="1" score="100" branch="MCA" grade="A">Anubhav</Student>
+  <Student id="2" score="100" branch="B.Tech" grade="A">Rupam</Student>
+  <Student id="3" score="99" branch="MCA" grade="B">Pankaj</Student>
+  <Student id="4" score="98" branch="BCA" grade="E">Himanshu</Student>
+  <Student id="5" score="99" branch="MCA" grade="D">Kirti</Student>
+</Studentlist>
+
