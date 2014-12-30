@@ -1,0 +1,6 @@
+c:\users\optimus11\documents\visual studio 2012\Projects\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\SingletonDesignPattern.exe.config
+c:\users\optimus11\documents\visual studio 2012\Projects\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\SingletonDesignPattern.csprojResolveAssemblyReference.cache
+c:\users\optimus11\documents\visual studio 2012\Projects\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\SingletonDesignPattern.exe
+c:\users\optimus11\documents\visual studio 2012\Projects\SingletonDesignPattern\SingletonDesignPattern\bin\Debug\SingletonDesignPattern.pdb
+c:\users\optimus11\documents\visual studio 2012\Projects\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\SingletonDesignPattern.exe
+c:\users\optimus11\documents\visual studio 2012\Projects\SingletonDesignPattern\SingletonDesignPattern\obj\Debug\SingletonDesignPattern.pdb
