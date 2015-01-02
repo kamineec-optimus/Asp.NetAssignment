@@ -1,0 +1,5 @@
+D:\Assignments\Assignment24\Assignment24\bin\Assignment24.dll
+D:\Assignments\Assignment24\Assignment24\bin\Assignment24.pdb
+D:\Assignments\Assignment24\Assignment24\obj\Debug\Assignment24.csprojResolveAssemblyReference.cache
+D:\Assignments\Assignment24\Assignment24\obj\Debug\Assignment24.dll
+D:\Assignments\Assignment24\Assignment24\obj\Debug\Assignment24.pdb

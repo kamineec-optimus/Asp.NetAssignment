@@ -43,10 +43,10 @@ namespace Assignment24.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("")]
-        public string PathOfXml {
+        [global::System.Configuration.DefaultSettingValueAttribute("http://localhost:59506")]
+        public string URL {
             get {
-                return ((string)(this["PathOfXml"]));
+                return ((string)(this["URL"]));
             }
         }
     }

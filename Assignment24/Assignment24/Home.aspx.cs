@@ -14,10 +14,10 @@ namespace Assignment24
         /// <summary>
         ///  save the path of file
         /// </summary>
-        string ApplicationURL = "http://{0}:{1}";
-        string NavigateURL = "http://{0}:{1}/Test.Xml";
+        string ApplicationURL = Assignment24.Properties.Settings.Default.URL;
+       string NavigateURL =string.Format("{0} /Test.Xml", Assignment24.Properties.Settings.Default.URL);
      //   string FilePath = string.Format("http://{0}:{1}/Test.Xml", Assignment24.Properties.Settings.Default.HostName, Assignment24.Properties.Settings.Default.PortNo);
-        string FilePath = string.Format("{0}/Test.xml", HttpContext.Current.Request.PhysicalApplicationPath);
+       string FilePath = string.Format("{0}/Test.xml", Assignment24.Properties.Settings.Default.URL);
         protected void Page_Load(object sender, EventArgs e)
         {
             if (!IsPostBack)

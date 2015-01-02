@@ -8,5 +8,8 @@
     <Setting Name="HostName" Type="System.String" Scope="Application">
       <Value Profile="(Default)">localhost</Value>
     </Setting>
+    <Setting Name="URL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://localhost:59506</Value>
+    </Setting>
   </Settings>
 </SettingsFile>
