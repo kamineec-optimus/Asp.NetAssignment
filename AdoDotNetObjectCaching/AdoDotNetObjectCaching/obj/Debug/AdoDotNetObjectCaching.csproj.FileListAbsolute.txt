@@ -1,5 +1,0 @@
-C:\Users\optimus11\Documents\Visual Studio 2012\Projects\AdoDotNetObjectCaching\AdoDotNetObjectCaching\bin\AdoDotNetObjectCaching.dll
-C:\Users\optimus11\Documents\Visual Studio 2012\Projects\AdoDotNetObjectCaching\AdoDotNetObjectCaching\bin\AdoDotNetObjectCaching.pdb
-C:\Users\optimus11\Documents\Visual Studio 2012\Projects\AdoDotNetObjectCaching\AdoDotNetObjectCaching\obj\Debug\AdoDotNetObjectCaching.csprojResolveAssemblyReference.cache
-C:\Users\optimus11\Documents\Visual Studio 2012\Projects\AdoDotNetObjectCaching\AdoDotNetObjectCaching\obj\Debug\AdoDotNetObjectCaching.dll
-C:\Users\optimus11\Documents\Visual Studio 2012\Projects\AdoDotNetObjectCaching\AdoDotNetObjectCaching\obj\Debug\AdoDotNetObjectCaching.pdb
