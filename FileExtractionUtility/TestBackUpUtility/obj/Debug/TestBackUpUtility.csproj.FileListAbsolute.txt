@@ -1,0 +1,7 @@
+C:\Users\optimus11\Documents\Visual Studio 2012\Projects\FileExtractionUtility\TestBackUpUtility\obj\Debug\TestBackUpUtility.csprojResolveAssemblyReference.cache
+C:\Users\optimus11\Documents\Visual Studio 2012\Projects\FileExtractionUtility\TestBackUpUtility\bin\Debug\TestBackUpUtility.dll
+C:\Users\optimus11\Documents\Visual Studio 2012\Projects\FileExtractionUtility\TestBackUpUtility\bin\Debug\TestBackUpUtility.pdb
+C:\Users\optimus11\Documents\Visual Studio 2012\Projects\FileExtractionUtility\TestBackUpUtility\bin\Debug\FileExtractionUtility.exe
+C:\Users\optimus11\Documents\Visual Studio 2012\Projects\FileExtractionUtility\TestBackUpUtility\bin\Debug\FileExtractionUtility.pdb
+C:\Users\optimus11\Documents\Visual Studio 2012\Projects\FileExtractionUtility\TestBackUpUtility\obj\Debug\TestBackUpUtility.dll
+C:\Users\optimus11\Documents\Visual Studio 2012\Projects\FileExtractionUtility\TestBackUpUtility\obj\Debug\TestBackUpUtility.pdb

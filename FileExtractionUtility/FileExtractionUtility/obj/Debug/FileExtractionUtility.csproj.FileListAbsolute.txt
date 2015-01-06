@@ -1,0 +1,8 @@
+c:\users\optimus11\documents\visual studio 2012\Projects\FileExtractionUtility\FileExtractionUtility\bin\Debug\FileExtractionUtility.exe.config
+c:\users\optimus11\documents\visual studio 2012\Projects\FileExtractionUtility\FileExtractionUtility\bin\Debug\FileExtractionUtility.exe
+c:\users\optimus11\documents\visual studio 2012\Projects\FileExtractionUtility\FileExtractionUtility\bin\Debug\FileExtractionUtility.pdb
+c:\users\optimus11\documents\visual studio 2012\Projects\FileExtractionUtility\FileExtractionUtility\obj\Debug\FileExtractionUtility.FileExtractionUtility.resources
+c:\users\optimus11\documents\visual studio 2012\Projects\FileExtractionUtility\FileExtractionUtility\obj\Debug\FileExtractionUtility.Properties.Resources.resources
+c:\users\optimus11\documents\visual studio 2012\Projects\FileExtractionUtility\FileExtractionUtility\obj\Debug\FileExtractionUtility.csproj.GenerateResource.Cache
+c:\users\optimus11\documents\visual studio 2012\Projects\FileExtractionUtility\FileExtractionUtility\obj\Debug\FileExtractionUtility.exe
+c:\users\optimus11\documents\visual studio 2012\Projects\FileExtractionUtility\FileExtractionUtility\obj\Debug\FileExtractionUtility.pdb
