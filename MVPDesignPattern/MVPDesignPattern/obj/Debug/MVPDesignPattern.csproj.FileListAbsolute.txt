@@ -1,0 +1,5 @@
+D:\Assignments\MVPDesignPattern\MVPDesignPattern\bin\MVPDesignPattern.dll
+D:\Assignments\MVPDesignPattern\MVPDesignPattern\bin\MVPDesignPattern.pdb
+D:\Assignments\MVPDesignPattern\MVPDesignPattern\obj\Debug\MVPDesignPattern.csprojResolveAssemblyReference.cache
+D:\Assignments\MVPDesignPattern\MVPDesignPattern\obj\Debug\MVPDesignPattern.dll
+D:\Assignments\MVPDesignPattern\MVPDesignPattern\obj\Debug\MVPDesignPattern.pdb
